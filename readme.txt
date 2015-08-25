@@ -9,4 +9,4 @@ Fuck this test.
 I add a new line code here.
 My stupid boss still prefers SVN.
 
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
