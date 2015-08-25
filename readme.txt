@@ -8,3 +8,5 @@ I don't know that am I speak right?
 Fuck this test.
 I add a new line code here.
 My stupid boss still prefers SVN.
+
+Creating a new branch is quick.
