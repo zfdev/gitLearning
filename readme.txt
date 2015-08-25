@@ -4,3 +4,5 @@ I can't speak english well.
 Git has a mutable index called stage.
 Git tracks changes of files.
 I will test the stage.
+I don't know that am I speak right?
+Fuck this test.
